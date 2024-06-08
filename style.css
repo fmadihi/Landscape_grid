@@ -1,0 +1,9 @@
+section {
+    background-color: red;
+}
+
+@media only screen and (orientation:landscape){
+    section {
+        background-color: lightblue;
+    }
+}
